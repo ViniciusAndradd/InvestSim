@@ -1,0 +1,17 @@
+﻿form {
+    
+}
+
+.formComponent{
+    padding:10px;
+}
+
+button{
+    width:100%;
+}
+
+.resultText{
+    text-align:center;
+    align-items:center;
+    justify-content:center;
+}

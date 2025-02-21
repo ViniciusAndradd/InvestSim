@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\InvestSim\\InvestSim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD00B6-E6F8-4928-BFFC-0530ABCD14B5}|InvestSim.csproj|c:\\users\\vinic\\source\\repos\\viniciusandradd\\investsim\\investsim\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFAD00B6-E6F8-4928-BFFC-0530ABCD14B5}|InvestSim.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD00B6-E6F8-4928-BFFC-0530ABCD14B5}|InvestSim.csproj|c:\\users\\vinic\\source\\repos\\viniciusandradd\\investsim\\investsim\\wwwroot\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BFAD00B6-E6F8-4928-BFFC-0530ABCD14B5}|InvestSim.csproj|solutionrelative:wwwroot\\css\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAD00B6-E6F8-4928-BFFC-0530ABCD14B5}|InvestSim.csproj|c:\\users\\vinic\\source\\repos\\viniciusandradd\\investsim\\investsim\\models\\investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFAD00B6-E6F8-4928-BFFC-0530ABCD14B5}|InvestSim.csproj|solutionrelative:models\\investment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Investment.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\InvestSim\\InvestSim\\Models\\Investment.cs",
+              "RelativeDocumentMoniker": "Models\\Investment.cs",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\InvestSim\\InvestSim\\Models\\Investment.cs",
+              "RelativeToolTip": "Models\\Investment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:58:26.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\InvestSim\\InvestSim\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\InvestSim\\InvestSim\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T00:28:59.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "estilo.css",
+              "DocumentMoniker": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\InvestSim\\InvestSim\\wwwroot\\css\\estilo.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\estilo.css",
+              "ToolTip": "C:\\Users\\vinic\\source\\repos\\ViniciusAndradd\\InvestSim\\InvestSim\\wwwroot\\css\\estilo.css",
+              "RelativeToolTip": "wwwroot\\css\\estilo.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T00:36:42.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

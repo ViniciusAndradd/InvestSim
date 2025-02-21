@@ -1,0 +1,47 @@
+﻿@model InvestSim.Models.Investment
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<head>
+    <link rel="stylesheet" href="~/css/estilo.css" asp-append-version="true" />
+</head>
+
+<div class="text-center">
+    <form as-action="Index" method="post">
+        <div class="container">
+            <div class="row">
+                <div class="formComponent col-4">
+                    <label>Taxa de juros a.a</label>
+                    <input type="text" asp-for="InterestRate" class="form-control" value=""/>
+                </div>
+
+                <div class="formComponent col-4">
+                    <label>Valor da aplicação</label>
+                    <input type="text" asp-for="AppliedValue" class="form-control" value=""/>
+                </div>
+
+                <div class="formComponent col-4">
+                    <label>Tempo de investimento (em anos)</label>
+                    <input type="text" asp-for="ApplicationTime" class="form-control" value=""/>
+                </div>
+
+                <div class="formComponent col-12">
+                    <button class="btn btn-primary" type="submit">Calcular</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+@{
+    if (Model != null && Model.FinalValue != 0)
+    {
+        <div class="resultText">
+            <p>Na data de vencimento você terá:</p>
+            <h3>@Model.FinalValue.ToString("C2")</h3>
+            <p>Rendimento total de @Model.Income.ToString("C2")</p>
+        </div>
+        
+    }
+}
